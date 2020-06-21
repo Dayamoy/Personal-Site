@@ -1,0 +1,27 @@
+/**************Tag Selector**********/
+
+body {
+    background-color: #dddddd;
+  }
+
+  hr {
+    border-style: dotted none none none;
+    width: 15%;
+    border-color:grey;
+    border-width: 3px;
+  }
+
+  h1{
+    color: #2a585e;
+  }
+
+  h3{
+    color: #2a585e;
+  }
+
+  /******************Psudo Class*******/
+  h1:hover{
+    color: rgb(13, 11, 26);
+  }
+
+ 
